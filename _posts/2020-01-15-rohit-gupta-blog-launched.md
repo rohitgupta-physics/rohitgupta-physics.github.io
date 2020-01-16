@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First Blog Post"
-date: 2014-04-30
+date: 2020-01-15
 ---
 
 This is my attempt at creating a blog post. I promise the future blogs will have actual content. For now I want to plug [this wonderful post](http://jmcglone.com/guides/github-pages/) whose template I am following to create my own website.
