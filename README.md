@@ -1,1 +1,1 @@
-# rohitgupta-physics.github.io
+# rohitkumargupta.com
