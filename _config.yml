@@ -1,6 +1,6 @@
 name: Rohit's Personal Page
 description: Where I show what I have done
-url: rohitkumargupta.com
+url: https://rohitkumargupta.com
 author: Rohit Kumar Gupta
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
